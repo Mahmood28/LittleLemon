@@ -19,3 +19,4 @@
 ### Booking
 
 - /restaurant/booking/tables/
+- /restaurant/booking/tables/{booking-id}/
